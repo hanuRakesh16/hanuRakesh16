@@ -8,7 +8,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 I’m currently learning everything.
 - 🥅 2023 Goals: Learn more about web3
 
-&nbsp;&nbsp;
 
 ### Connect with me:
 
@@ -16,7 +15,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://www.linkedin.com/in/hanu-rakeshwar-25435a121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hanu_rakeshwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
-&nbsp;
 
 
 ### Languages and Frameworks:
@@ -46,8 +44,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img align="left" alt="Socket" width="26px" src="./img/socket.png" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
 
 <br />
