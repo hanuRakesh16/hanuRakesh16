@@ -1,12 +1,13 @@
 # Hi there, I'm Hanu Rakeshwar - Software Developer 👋 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanurakesh16&label=Profile%20views&color=0e75b6&style=flat" alt="hanurakesh" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanurakesh16&label=Profile%20views&color=0e75b6&style=flat" alt="hanurakesh" /> </p> -->
 <img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 👨‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Freelance Developer.
+- :telescope: I’m working as a **Freelance Developer**.
 - 🌱 I’m currently learning everything.
 - 🥅 2023 Goals: Learn more about web3
+
 &nbsp;&nbsp;
 
 ### Connect with me:
@@ -15,7 +16,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://www.linkedin.com/in/hanu-rakeshwar-25435a121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hanu_rakeshwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
-&nbsp;&nbsp;
+&nbsp;
 
 
 ### Languages and Frameworks:
