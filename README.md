@@ -4,9 +4,9 @@
 
 ### 👨‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a **Freelance Developer**.
-- 🌱 I’m currently learning everything.
-- 🥅 2023 Goals: Learn more about web3
+- :telescope: Working as a **Freelance Developer**.
+- 🌱 Exploring everything.
+- 🥅 2023 Goals: Learn more about web3.
 
 
 ### Connect with me:
@@ -57,7 +57,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanurakesh16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hanurakesh" /></p>
   <p><img align="left" alt="hanurakesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hanurakesh16&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanurakesh16&&theme=tokyonight" alt="hanurakesh" /></p>
-
 </details>
 
 [instagram]: https://www.instagram.com/hanu_rakeshwar/
