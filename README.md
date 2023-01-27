@@ -1,7 +1,9 @@
-# Hi there, I'm Hanu Rakeshwar 👋 
+# Hi there, I'm Hanu Rakeshwar - Software Developer 👋 
 
-## I'm a Software Developer
-- 🌱 I’m currently learning everything 
+### 👨‍💻 About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Freelance Developer.
+- 🌱 I’m currently learning everything.
 - 🥅 2023 Goals: Learn more about web3
 
 ### Connect with me:
