@@ -1,5 +1,5 @@
 # Hi there, I'm Hanu Rakeshwar - Software Developer 👋 
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ### 👨‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Freelance Developer.
@@ -9,11 +9,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/hanu-rakeshwar-25435a121#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/hanu-rakeshwar-25435a121#gh-dark-mode-only)
+[![website](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](www.linkedin.com/in/hanu-rakeshwar-25435a121)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/hanu_rakeshwar/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/hanu_rakeshwar/#gh-dark-mode-only)
+[![website](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/hanu_rakeshwar/)
 
 ### Languages and Frameworks:
 
@@ -48,7 +46,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br />
 
 ---
-
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanurakesh16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hanurakesh" /></p>
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
