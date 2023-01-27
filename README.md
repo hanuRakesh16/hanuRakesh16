@@ -1,5 +1,6 @@
 # Hi there, I'm Hanu Rakeshwar - Software Developer 👋 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ### 👨‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Freelance Developer.
@@ -49,14 +50,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br />
 
 ---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanurakesh16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hanurakesh" /></p>
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="hanurakesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hanurakesh16&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
