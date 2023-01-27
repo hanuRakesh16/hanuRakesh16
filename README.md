@@ -1,9 +1,9 @@
-# Hi there, I'm Hanu Rakeshwar - Software Developer 👋 
+# Hi there, I'm Hanu Rakeshwar 👋 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanurakesh16&label=Profile%20views&color=0e75b6&style=flat" alt="hanurakesh" /> </p> -->
 <img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 👨‍💻 About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: Working as a **Freelance Developer**.
 - 🌱 Exploring everything.
 - 🥅 2023 Goals: Learn more about web3.
