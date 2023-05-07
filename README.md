@@ -3,8 +3,8 @@
 <img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 👨‍💻 About Me :
-I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Working as a **Freelance Developer**.
+I am a **Software Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: Working as a **Freelance Software Developer**.
 - 🌱 Exploring everything.
 - 🥅 2023 Goals: Learn more about web3.
 
