@@ -4,9 +4,9 @@
 
 ### 👨‍💻 About Me :
 I am a **Software Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Working as a **Freelance Software Developer**.
+- :telescope: Working as a **Software Engineer**.
 - 🌱 Exploring everything.
-- 🥅 2023 Goals: Learn more about web3.
+- 🥅 2026 Goals: Learn more about Web3.
 
 
 ### Connect with me:
